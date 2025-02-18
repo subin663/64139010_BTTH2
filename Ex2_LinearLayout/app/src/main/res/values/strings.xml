@@ -1,5 +1,4 @@
 <resources>
     <string name="app_name">Ex2_LinearLayout</string>
-    <string name="n_t_s_1">NÚT SỐ 1</string>
-    <string name="n_t">Nút</string>
+    <string name="n_1">NÚT SỐ 1</string>
 </resources>
